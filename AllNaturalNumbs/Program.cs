@@ -20,6 +20,5 @@ void NaturalNumber(int N)
     NaturalNumber(N - 1);
 }
 
-
 int N = Input("Введите число N ");
 NaturalNumber(N);
